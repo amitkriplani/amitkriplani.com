@@ -7,3 +7,5 @@
 [Java](/java/)
 
 [Docker](/docker/)
+
+[Resume](/docs/amit_kriplani_resume.pdf)
